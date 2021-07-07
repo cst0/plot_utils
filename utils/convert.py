@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import re
-from typing import List, Union
+from typing import List
 from io import UnsupportedOperation
 
 
